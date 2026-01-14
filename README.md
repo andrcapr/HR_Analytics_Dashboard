@@ -1,74 +1,24 @@
-# HR Analytics Dashboard
+📌 Overview
 
-## 📌 Overview
+This dashboard provides insights into employee engagement, satisfaction, work–life balance, and attrition, helping HR and leadership teams identify risk areas and understand the drivers behind turnover.
 
-This dashboard provides a high-level and departmental view of employee engagement, satisfaction, work-life balance trends, and employee attrition. It is designed to support HR and leadership teams in monitoring workforce health, identifying risk areas, and making data-driven people decisions.
+🎯 Key Findings
 
-The dashboard consolidates employee data into clear KPIs and visual insights, with interactive filters to explore results by employee status.
+Among employees who left the company (387 total: Voluntary and Terminated by Clause), performance levels were generally high — 80% Fully Meets, 10% Exceeds, with only 10% combined in Needs Improvement and PIP. This indicates that performance was not a primary driver of attrition. 
+/screenshots/Screenshot1.png
 
----
 
-## 🎯 Key Business Questions Answered
+In the Software Engineering department, employees who left show uneven work–life balance trends while maintaining 100% “Fully Meets” performance. However, engagement (58%) and satisfaction (60%) remain below optimal levels, suggesting that attrition in this area is more strongly linked to employee experience rather than performance issues. 
+/screenshots/Screenshot2.png
 
-### 1. What is the overall level of employee engagement and satisfaction?
+🧭 Usage
 
-* **Total Employees:** 3,000
-* **Average Engagement:** 59%
-* **Average Satisfaction:** 60%
+Filter by Employee Status to compare active vs. departed employees.
 
-These KPIs provide a snapshot of overall workforce sentiment and serve as benchmarks for department-level comparisons.
+Benchmark departments against company averages.
 
----
+Track trends to pinpoint experience-related attrition risks.
 
-### 2. Are there specific departments where engagement or satisfaction is below the company average?
+📈 Value
 
-* **Engagement by Department** highlights variations across business units, allowing quick identification of departments performing above or below the company average.
-* **Satisfaction by Department** reveals similar patterns, helping HR pinpoint areas where employee experience may require intervention.
-
-Departments such as **Admin Offices** and **Production** show comparatively lower scores in one or both metrics, indicating potential focus areas for improvement initiatives.
-
----
-
-### 3. How has the work-life balance changed over the last year?
-
-* The **Work-Life Balance Dynamics** line chart tracks monthly trends over the past year.
-* The data shows moderate fluctuations, with values generally ranging between the mid-50% and mid-60% levels.
-
-This trend analysis helps assess the impact of organizational changes, workload shifts, or policy updates over time.
-
----
-
-### 4. How many employees have we lost, and can we see their performance indicators?
-
-* The **Employee Status slicer** allows users to isolate terminated employees (voluntary or for cause).
-* The **Performance Score distribution** shows how employee performance is categorized:
-
-  * Fully Meets
-  * Exceeds
-  * Needs Improvement
-  * PIP
-
-By combining these visuals, stakeholders can analyze whether attrition is concentrated among specific performance groups and identify potential retention or performance management issues.
-
----
-
-## 🧭 How to Use the Dashboard
-
-* Use the **Employee Status filter** to focus on active, terminated, or future-start employees.
-* Compare department-level engagement and satisfaction against the company average line.
-* Review performance score distribution to understand workforce quality and attrition patterns.
-
----
-
-## ✅ Intended Audience
-
-* HR Business Partners
-* People Analytics teams
-* Senior Leadership
-* Workforce Planning & Operations teams
-
----
-
-## 📈 Value
-
-This dashboard enables proactive HR decision-making by combining engagement, satisfaction, work-life balance, and performance insights into a single, interactive view.
+Focuses HR actions on employee experience drivers rather than performance issues, enabling targeted retention strategies.
